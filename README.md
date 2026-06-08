@@ -60,6 +60,6 @@ Me chamo Kayk Sardou Monteiro, tenho 21 anos, sou natural de Niterói (RJ), mas 
     alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/monteirokaykdev/monteirokaykdev/output/github-contribution-grid-snake.svg"
   />
-<img src="https://raw.githubusercontent.com/monteirokaykdev/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/monteirokaykdev/monteirokaykdev/output/snake.svg" alt="Snake animation" />
 
 </picture>
