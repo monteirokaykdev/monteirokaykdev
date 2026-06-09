@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kayk Monteiro
+# Kayk Monteiro
 
 **`Desenvolvedor FullStack`**
 
